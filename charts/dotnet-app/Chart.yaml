@@ -1,12 +1,11 @@
 apiVersion: v2
-name: spring-petclinic-deploy
+name: dotnet-app
 description: >-
-  A helm chart for Kubernetes to deploy the 'spring-petclinic' application.
+  A helm chart for Kubernetes to deploy the 'dotnet-app' application.
 type: application
 
 # This is the chart version. This version number should be incremented each time you make changes
 # to the chart and its templates, including the app version.
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
 version: 0.1.0
-
 
