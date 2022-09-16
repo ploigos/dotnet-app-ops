@@ -1,3 +1,3 @@
 replicaCount: 1
 image:
-  tag: nexus-docker-devsecops.apps.cluster-pn8ld.pn8ld.sandbox814.opentlc.com/ploigos/dotnet-app@sha256:ad80180c5d442b60bb1ef57d304e093a83caf03d16efe4303dade7f92cff0ee9 # written by ploigos-step-runner
+  tag: nexus-docker-devsecops.apps.cluster-pn8ld.pn8ld.sandbox814.opentlc.com/ploigos/dotnet-app@sha256:0d60f48148f9ed66d0e15650a88a44d778980bcb398043690a552959047d616d # written by ploigos-step-runner
